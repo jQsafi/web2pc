@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Python
+python-backend/venv/
+python-backend/__pycache__/
+python-backend/*.pyc
+python-backend/.env
+
+# macOS
+.DS_Store
+
+# Old unused backend (if it exists)
+backend/node_modules/
+backend/dist/
